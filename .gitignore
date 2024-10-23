@@ -1,1 +1,5 @@
-/JSON/
+# Ignore credentials and sensitive files
+JSON/credentials.json
+*.env
+config.json
+secrets/
