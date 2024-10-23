@@ -3,3 +3,4 @@ JSON/credentials.json
 *.env
 config.json
 secrets/
+"JSON/credentials.json"
